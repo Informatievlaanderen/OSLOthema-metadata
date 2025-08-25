@@ -4,7 +4,7 @@
     "type": "ap",
     "eap": "Metadata-AP.eap",
     "diagram": "MijnApplicatieprofiel",
-    "template": "metadata.j2",
+    "template": "metadata-ap.j2",
     "title": "Metadata publicatie",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
     "publication-date": "2025-08-25",
